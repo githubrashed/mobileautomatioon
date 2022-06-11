@@ -84,5 +84,4 @@ public class CalculatorTest {
             System.out.println("Monthly EMI asserted properly and Test case passed");
         }*/
     }
-
 }
