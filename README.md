@@ -1,5 +1,16 @@
 Following below step by step instruction to make Appium Environment and run Test case for Windows 11:
 --------------------------------------------------------------------------------
+Covered area's:
+---------------
+# Environment set up
+# added single test case with value assertion
+# TestNG framework
+# added Extend Report
+# Added screen recording feature
+
+Let's start from here
+---------------------
+
 Note: Need to install exe file for all required
 
 1. Download & Install JDK
