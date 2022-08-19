@@ -61,7 +61,7 @@ public abstract class BaseTest extends ExtentReportsTest {
         if (!fileDir.exists()) {
             fileDir.mkdirs();
         }
-        String filePath = destinationPath + "/" + driver.getDeviceTime().replace(":", "_").replace("+", " ") + ",mp4";
+        String filePath = destinationPath + "/" + driver.getDeviceTime().replace(":", "_").replace("+", " ") + ".mp4";
         System.out.println("filePath" + filePath);
         Path path = Paths.get(filePath);
         try {
